@@ -1,0 +1,22 @@
+.container__about {
+    padding: 5em 0em;
+    text-align: center;
+}
+
+.about__text {
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.about_title {
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--titulo);
+    padding: 0.7em 0;
+}
+
+.about__description {
+    font-size: 20px;
+    font-weight: 400;  
+    margin: 0 23vw;
+}
