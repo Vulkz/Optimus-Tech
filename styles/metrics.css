@@ -1,0 +1,24 @@
+.container__metrics {
+    align-items: center;
+    display: flex;
+    gap: 3em;
+    margin: 2em 5em;
+}
+
+.box__metrics {
+    width: 18vw;
+    margin: auto;
+    align-items: center;
+}
+
+.metrics__text {
+    color: var(--vermelho);
+    font-weight: 600;
+    font-size: 60px;
+}
+
+.metrics__title {
+    font-size: 18px;
+    color: var(--titulo);
+}
+
