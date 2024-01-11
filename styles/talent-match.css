@@ -1,0 +1,31 @@
+.container__talent-match {
+    margin-top: 7em;
+    text-align: center;
+}
+
+.talent-match__span {
+    display: block;
+    background: var(--bg-vermelho);
+    width: 125px;
+    margin: auto;
+    font-size: 14px;
+    color: var(--vermelho);
+    padding: 4px 12px;
+    border-radius: 16px;
+}
+
+.talent-match__title {
+    color: var(--titulo);
+    font-size: 36px;
+    font-weight: 600;
+    margin: 16px 0px 20px;
+}
+
+.talent-match__text {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.talent-match__img {
+    margin: 4em 0em;
+}

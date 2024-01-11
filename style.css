@@ -1,10 +1,12 @@
 @import url(./styles/header.css);
 @import url(./styles/about.css);
 @import url(./styles/metrics.css);
+@import url(./styles/talent-match.css);
 
 :root {
     --branco: #FFFFFF;
     --vermelho: #8E2424;
+    --bg-vermelho: #8E24240D;
     --fonte: 'Inter';
     --logo-text: #3A404E;
     --text: #667085;
