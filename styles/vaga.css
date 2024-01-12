@@ -1,0 +1,30 @@
+.container__vaga {
+    align-items: center;
+    margin: 0 22vw;
+}
+
+.area-vaga {
+    margin-top: 4em;
+    font-size: 20px;
+    color: var(--titulo);
+}
+
+.vaga {
+    margin: 2rem 0;
+    padding: 24px;
+    border: 2px solid var(--border-gray);
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
+
+.vaga__title {
+    font-size: 18px;
+    color: var(--titulo);
+}
+
+.vaga__description {
+    display: flex;
+    gap: 2em;
+}

@@ -2,12 +2,14 @@
 @import url(./styles/about.css);
 @import url(./styles/metrics.css);
 @import url(./styles/talent-match.css);
+@import url(./styles/vaga.css);
 
 :root {
     --branco: #FFFFFF;
     --vermelho: #8E2424;
     --bg-vermelho: #8E24240D;
     --fonte: 'Inter';
+    --border-gray: #EAECF0;
     --logo-text: #3A404E;
     --text: #667085;
     --titulo: #101828;
