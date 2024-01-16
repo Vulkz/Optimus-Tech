@@ -1,0 +1,41 @@
+.conatiner__members {
+    background-color: var(--bg-vermelho);
+    text-align: center;
+    margin: 0 10vw;
+    padding: 64px;
+    border-radius: 16px;
+}
+
+.members__title {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.members__description {
+    display: block;
+    font-size: 36px;
+    color: var(--titulo);
+    margin: 16px 0px 32px 0px;
+}
+
+.member {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.member__icon {
+    max-width: 50px;
+}
+
+.member__name {
+    display: block;
+    margin: 10px 0px 5px 0px;
+    color: var(--titulo);
+}
+
+.member__cargo {
+    font-size: 14px;
+    font-weight: 400;
+}

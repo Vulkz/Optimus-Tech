@@ -3,6 +3,7 @@
 @import url(./styles/metrics.css);
 @import url(./styles/talent-match.css);
 @import url(./styles/vaga.css);
+@import url(./styles/members.css);
 
 :root {
     --branco: #FFFFFF;

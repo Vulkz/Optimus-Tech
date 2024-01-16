@@ -1,10 +1,10 @@
 .container__vaga {
     align-items: center;
-    margin: 0 22vw;
+    margin: 0 25vw;
 }
 
 .area-vaga {
-    margin-top: 4em;
+    margin-top: 2em;
     font-size: 20px;
     color: var(--titulo);
 }
