@@ -4,11 +4,13 @@
 @import url(./styles/talent-match.css);
 @import url(./styles/vaga.css);
 @import url(./styles/members.css);
+@import url(./styles/footer.css);
 
 :root {
     --branco: #FFFFFF;
     --vermelho: #8E2424;
     --bg-vermelho: #8E24240D;
+    --br-cinza: #F9FAFB;
     --fonte: 'Inter';
     --border-gray: #EAECF0;
     --logo-text: #3A404E;
